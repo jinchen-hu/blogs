@@ -12,12 +12,11 @@ module.exports = {
   author: 'Jinchen Hu',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: 'Hi there!',
+  socialImageTitle: 'Luke',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
   github: 'jinchen-hu',
   linkedin: 'jinchen-hu',
 

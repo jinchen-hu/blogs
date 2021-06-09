@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'JinchenHu',
   domain: 'jinchenhu.it',
-  author: 'Travis Fischer',
+  author: 'Jinchen Hu',
 
   // open graph metadata (optional)
   description: 'Example site description',

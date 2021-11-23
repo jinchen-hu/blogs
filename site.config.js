@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'JinchenHu',
+  name: 'Jinchen Hu',
   domain: 'jinchen.hu',
   author: 'Jinchen Hu',
 
